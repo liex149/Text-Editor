@@ -51,6 +51,9 @@ module.exports = () => {
           },
         ],
       }),
+      new WorkboxPlugin ({
+        
+      })
     ],
 
 
