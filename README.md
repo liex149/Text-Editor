@@ -44,7 +44,7 @@ WHEN I deploy to Heroku\
 THEN I should have proper build scripts for a webpack application
 
 ## Installation 
-User will install npm i and then npm run start in the terminal
+User will install npm i, express and then npm run start in the terminal
 
 ## Usage 
 NA
